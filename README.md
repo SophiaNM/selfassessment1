@@ -5,7 +5,7 @@ This website is a repllication of the Jordan image provided for moringaprep code
 It is built using HTML and CSS; Javascript and jQuery.
 
 ## Live Website 
-View the complete site [here](SophiaNM.github.io/selfassessment1)
+View the complete site [here](https://sophianm.github.io/selfassessment1/)
 
 ## Contributors
  - Sophia Murage
