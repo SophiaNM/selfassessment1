@@ -1,5 +1,5 @@
 ## SelfAssessment One
-This website is a repllication of the Jordan image provided for moringaprep coderamp assessmet.
+This website is a repllication of the [core image](https://github.com/SophiaNM/selfassessment1/blob/master/core.jpg) provided for moringaprep coderamp assessmet.
 
 ## Features
 It is built using HTML and CSS; Javascript and jQuery.
