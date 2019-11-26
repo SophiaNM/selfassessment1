@@ -5,21 +5,17 @@ This is a self-assement moringa interview project. This website is a repllicatio
 - Complete the task of recreating the core image.
 - Required to use CSS and HTML5.
 
-## Features
+## Technologies
 It is built using HTML and CSS; Javascript and jQuery.
 
 ## Live Website 
 View the complete site [here](https://sophianm.github.io/selfassessment1/)
 
 ## Contributors
- - Sophia Murage
+Sophia Murage
  
 ## License
-### MIT License
+MIT License Copyright (c) [2016] [Sophia Njeri Murage]
 
-Copyright (c) [2016] [Sophia Njeri Murage]
-
-### Technologies
-Uses latest version of html i.e. **HTML5**
 ### Contact Information
 njerimurage92@gmail.com | snmurage@outlook.com
